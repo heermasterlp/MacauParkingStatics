@@ -102,5 +102,5 @@ if __name__ == '__main__':
 
             writer.writerow(data)
             f.flush()
-            time.sleep(10)
+            time.sleep(60)
 
